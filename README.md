@@ -5,3 +5,7 @@
 ### Esto es un subtítulo
 
 - Esto es un punto enumerado
+
+```
+Esto es un texto encuadrado
+```
