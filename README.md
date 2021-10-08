@@ -6,8 +6,10 @@
 
 - Aunque en realidad Markdown también se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible, así que para simplificar puedes considerar Markdown como un método de escritura.
 
-```
 Este método te permitirá añadir formatos tales como <strong>negritas</strong>, <em>cursivas</em> o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones
+
+```
+Además te permite encuadrar texto y agregar imagenes referenciandolas con github.
 ```
 
-<strong>negritas</strong>
+
