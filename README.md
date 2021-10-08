@@ -10,3 +10,4 @@
 Este método te permitirá añadir formatos tales como <strong>negritas</strong>, <em>cursivas</em> o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones
 ```
 
+<strong>negritas</strong>
